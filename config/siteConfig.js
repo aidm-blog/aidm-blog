@@ -4,7 +4,7 @@ const config = {
   siteTitleShort: 'AIDM Blog', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: 'Blog | All India Dank Memes', // Alternative site title for SEO.
   siteLanguage: 'en', // Site language.
-  siteDescription: 'A blog starter with the bare essentials needed for a Gatsby site(SEO, pagination, category etc.)', // Website description used for RSS feeds/meta description tag.
+  siteDescription: 'AIDM blog  - Visit us to read the latest articles related latest happenigs, movies, satires etc)', // Website description used for RSS feeds/meta description tag.
   siteLogo: 'static/favicons/favicon.png', // Logo used for manifest.
   siteUrl: 'https://blog.allindiadankmemes.in/', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
