@@ -16,7 +16,8 @@ const PostText = ({ head, category, date, timeToRead, wrapClass, children }) => 
           </Link>
         )}
         <span>
-          <i className="fas fa-calendar-alt" style={{ marginRight: '4px' }} />
+          {/* <i className="fas fa-calendar-alt" style={{ marginRight: '4px' }} /> */}
+          📅&nbsp;
           {formatDate}
         </span>
         <span>{` • ${timeToRead} min read`}</span>

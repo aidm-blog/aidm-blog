@@ -1,4 +1,6 @@
 @import "../../layout/style/base/setting";
+@import "../../layout/style/base/breakpoints";
+
 
 .post-pagination {
   display: flex;
@@ -23,8 +25,19 @@
       width: $relative-spacing-xlarge;
       height: $relative-spacing-xlarge;
       color: var(--invert2);
-      background: var(--invert1);
+      background: var(--pink2);
       border-radius: 50%;
     }
   }
+  @include media-breakpoint-down($breakpoint-sm) {
+    flex-direction: column;
+    
+    > .pagination-number {
+  
+      a {
+        margin: 20px;
+      }
+
+  }
+}
 }

@@ -12,10 +12,12 @@
   > .links {
     flex: 1;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    background: var(--bg4);
 
     > a {
+      margin: $spacing-large;
       text-align: center;
       transition: transform $transition-fast-easein;
       &:hover {

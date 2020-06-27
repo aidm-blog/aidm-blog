@@ -14,8 +14,14 @@
   .about-context {
     display: flex;
     align-content: center;
-    h3 {
+    h1 {
       margin: 0;
+    color: var(--header-h2);
+    letter-spacing: 10px;
+    }
+
+    p {
+      margin: 30px 0;
     }
 
     .time {

@@ -22,7 +22,7 @@
     box-shadow: 0 0 $spacing-small #757575;
     &:hover {
       color: #282c35;
-      background: #f9ffee;
+      background: var(--subtle-top2);
       box-shadow: 0 0 $spacing-large #757575;
     }
   }

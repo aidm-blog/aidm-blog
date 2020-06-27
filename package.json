@@ -1,7 +1,7 @@
 {
-  "name": "papan-gatsby-starter",
+  "name": "blog-by-aidm",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A Blog by AIDM",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {

@@ -1,11 +1,12 @@
 :root {
   --white: #fff;
-  --black: #0f1114;
+  --black: #1C1D24;
   --pink1: #ffa7c4;
-  --pink2: #ff7597;
+  --pink2: #DE1B85;
+  --pink2light: #de1b8666;
   --blue1: #0072bb;
-  --yellow1: #efbb35;
-  --yellow2: rgb(245, 222, 179);
+  --yellow1: #fff000;
+  --yellow2: #f5deb3;
   --red1: #c62828;
 }
 
@@ -17,20 +18,23 @@ $palette: (
     --bg4: #f8f8f8,
     --invert1: #282c35,
     --invert2: #f9ffee,
-    --text-color: #555,
+    --text-color: #1C1D24,
     --link: var(--text-color),
     --post-content-link: #d32f2f,
-    --subtle-top1: rgba(107, 183, 86, 1),
-    --subtle-top2: rgba(0, 143, 104, 1),
-    --subtle-h1-1: #ef9a9a,
-    --subtle-h1-2: #e53935,
-    --subtle-h1-3: #b71c1c,
-    --header-h2: rgb(0, 143, 131),
-    --hover-top: #8bc34a,
-    --hover-top-icon: #df1c31,
-    --post-card-hover: var(--black),
+    --subtle-top1: #8e2de2,
+    --subtle-top2: #4a00e0,
+    --subtle-h1-1: #1b1aff,
+    --subtle-h1-2: #00009e,
+    --subtle-h1-3: #9900ff,
+    --header-h2: #7f00ff,
+    --hover-top: #fff000,
+    --hover-top-icon: #4a00e0,
+    --post-card-hover: #00000030,
     --category-border: #757575,
-    --tag-border: #212121,
+    --category-bg: #d3dde6,
+    --box-shadow1: #d9d9d9,
+    --box-shadow2: #fff,
+    --tag-border: #00000020,
     --warning: #e75b7e,
     --info: #6200ee
   ),
@@ -44,17 +48,20 @@ $palette: (
     --text-color: #f9ffee,
     --link: var(--yellow2),
     --post-content-link: var(--yellow2),
-    --subtle-top1: #212121,
-    --subtle-top2: #28313e,
+    --subtle-top1: #8e2de2,
+    --subtle-top2: #4a00e0,
     --subtle-h1-1: #a7ffeb,
     --subtle-h1-2: #1de9b6,
     --subtle-h1-3: #00bfa5,
-    --header-h2: #ff7597,
-    --hover-top: #424242,
-    --hover-top-icon: #ffcf44,
-    --post-card-hover: var(--text-color),
+    --header-h2: #af6cff,
+    --hover-top: #fff000,
+    --hover-top-icon: #4a00e0,
+    --post-card-hover: #00000050,
     --category-border: var(--yellow1),
-    --tag-border: #03dac6,
+    --category-bg: var(--black),
+    --box-shadow1: #00000060,
+    --box-shadow2: #00000020,
+    --tag-border: #ffffff20,
     --warning: #ffc400,
     --info: #009688
   )

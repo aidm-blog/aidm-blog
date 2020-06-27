@@ -9,14 +9,15 @@
   > li > a {
     margin-top: $spacing-small;
     margin-right: $spacing-small;
-    padding: 4px;
+    padding: 8px 16px;
     display: inline-block;
-    border-radius: $base-border-radius;
+    border-radius: 50px;
     box-shadow: 0 0 $spacing-xsmall var(--tag-border);
     transition: all $transition-faster-easein;
+    // font-size: 14px;
     &:hover {
-      color: var(--invert2);
-      background: var(--invert1);
+      color: var(--yellow2);
+      background: var(--hover-top-icon);
       box-shadow: 0 0 $spacing-large var(--tag-border);
     }
   }
