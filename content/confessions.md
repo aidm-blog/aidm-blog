@@ -23,8 +23,8 @@ They tell me I just listen to Kuhad to impress girls. As if Prateek Kuhad's musi
 
 I pity people who do not understand Kuhad's art because they will never know the power of pure love and music. I wish I can show them things which can only be felt. I think it's too late for them. Anyway, me and the boys gonna listen to Kuhad on discord now. Goodbye. And rap is not music.
 
-- By [Ashutosh Dubey](@ashutosh_c137)
-
+- By Ashutosh Dubey
+> *Follow me on Twitter: [@ashutosh_c137](https://twitter.com/ashutosh_c137)*
 
 -------
 # Connect with us via our Newsletter
