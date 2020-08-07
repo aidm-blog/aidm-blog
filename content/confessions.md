@@ -9,13 +9,9 @@ tags:
   - Music
 ---
 
-
-## Confessions of a proud Prateek Kuhad stan!
-
 I adore Prateek Kuhad so much. And before you ask, yes, I am a sapiosexual. I have his posters hanging in my bedroom. I play Kuhad when I am in a state of eternal bliss after getting a chicken dinner in PUBG mobile. I play Kuhad when I am feeling blue because I got a zero in my history test. And I will play Kuhad during sex once I become an adult and get married. It's not just his voice that pleases my soul but his music, too... that makes my bowel movement so smooth. 
 
-![Pratik_kuhad](../static/images/pk_cover.jpg)
-
+![Pratik_kuhad_confessions](../static/images/confession_pk_3.jpg)
 
 I cringe on people when they can't understand how "cold/mess" is a poetic genius. They talk about some Tupac Shakur being a lyrical genius. I read that he was some gangster who rapped about social issues. I mean can't they even see it's an oxymoron LMAO.  
 
@@ -26,6 +22,8 @@ They tell me I just listen to Kuhad to impress girls. As if Prateek Kuhad's musi
 ![Pratik_kuhad_confessions](../static/images/confession_pk_2.jpg)
 
 I pity people who do not understand Kuhad's art because they will never know the power of pure love and music. I wish I can show them things which can only be felt. I think it's too late for them. Anyway, me and the boys gonna listen to Kuhad on discord now. Goodbye. And rap is not music.
+
+- By [Ashutosh Dubey](@ashutosh_c137)
 
 
 -------
