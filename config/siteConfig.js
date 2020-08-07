@@ -35,7 +35,7 @@ const config = {
     },
     {
       label: 'reddit',
-      url: 'https://www.reddit.com/aidmsubreddit?ref=blog.allindiadankmemes.in',
+      url: 'https://www.reddit.com/r/AIDMsubreddit?ref=blog.allindiadankmemes.in',
       iconClassName: 'fab fa-reddit',
     },
   ],
