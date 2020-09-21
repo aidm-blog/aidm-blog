@@ -1,5 +1,5 @@
 ---
-title: Warm Take - Anurag Kashyap & #MeToo
+title: 'Warm Take - Anurag Kashyap & #MeToo'
 cover: '../static/images/anurag.png'
 date: "2020-09-21"
 category: Wasted Time Diaries
