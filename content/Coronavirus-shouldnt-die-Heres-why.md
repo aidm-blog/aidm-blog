@@ -41,8 +41,8 @@ But what do you do when the news gives you scapegoats, juicy drama and unbelieva
 - By Ashutosh Dubey
 > *Follow me on Twitter: [@ashutosh_c137](https://twitter.com/ashutosh_c137)*
 
-<!-- Feel free to share: 
-<div class="s9-widget-wrapper">Icons</div> -->
+Feel free to share: 
+<div class="s9-widget-wrapper"></div>
 
 -------
 # Connect with us via our Newsletter

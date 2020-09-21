@@ -33,7 +33,7 @@ I don’t want much, just a declaration, “We fucked up, and we are sorry for t
 - By Ashutosh Dubey
 > *Follow me on Twitter: [@ashutosh_c137](https://twitter.com/ashutosh_c137)*
 
-<!-- Feel free to share:  -->
+Feel free to share: 
 <div class="s9-widget-wrapper"></div>
 
 
