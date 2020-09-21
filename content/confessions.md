@@ -26,6 +26,9 @@ I pity people who do not understand Kuhad's art because they will never know the
 - By Ashutosh Dubey
 > *Follow me on Twitter: [@ashutosh_c137](https://twitter.com/ashutosh_c137)*
 
+<!-- Feel free to share: 
+<div class="s9-widget-wrapper"></div> -->
+
 -------
 # Connect with us via our Newsletter
 

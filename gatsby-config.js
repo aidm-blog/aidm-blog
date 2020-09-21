@@ -22,6 +22,16 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     {
+      resolve: `gatsby-plugin-social9-socialshare`,
+      options: {
+        id: 's9-sdk',
+        async: true,
+        defer: true,
+        content: 'ffd30fc1edff42feb989cc13ece9c4ff',
+        src: 'socialshare.min.js',
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
