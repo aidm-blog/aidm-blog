@@ -30,8 +30,8 @@ I am just accusing of not letting the whole world know that you fucked up. Swarm
 
 I don’t want much, just a declaration, “We fucked up, and we are sorry for that and we do have the courage to address it”.
 
-- By Ashutosh Dubey
-> *Follow me on Twitter: [@ashutosh_c137](https://twitter.com/ashutosh_c137)*
+- By Pseudoku
+<!-- > *Follow me on Twitter: [@ashutosh_c137](https://twitter.com/ashutosh_c137)* -->
 
 Feel free to share: 
 <div class="s9-widget-wrapper"></div>
